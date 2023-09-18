@@ -16,9 +16,9 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 * Nathan Luiz
 * Vinicius Souza
 
-## Orientador
+## Orientadora
 
-* Nome completo do professor
+* Nathalia Assis Valentim
 
 # Documentação
 
