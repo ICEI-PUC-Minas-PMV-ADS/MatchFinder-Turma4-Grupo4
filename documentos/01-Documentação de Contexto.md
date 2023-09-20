@@ -1,35 +1,45 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A indústria dos games cresce significativamente ano após ano, e não é para menos, considerando o avanço acelerado da tecnologia no mundo todo. Estatisticamente, os jogos online e videogames têm marcado uma tendência nas atividades de lazer e entretenimento, especialmente entre os brasileiros, como uma alternativa para tornar mais leve o isolamento social ao longo do último ano.Com isso os jogos online são uma ótima maneira de se divertir, mas também podem ser uma experiência solitária se você não tiver uma equipe para jogar. Encontrar outros jogadores para formar uma equipe pode ser difícil, especialmente se você estiver jogando um jogo que não é muito popular.Os jogos multiplayer online beneficiam os jovens jogadores, permitindo que eles assumam várias funções, como gerenciar equipes ou trabalhar com outras pessoas para vencer. A experiência compartilhada pode ser uma ótima maneira de colaborar e aprender uns com os outros. 
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O problema reside na falta de um sistema eficiente que facilite a conexão entre jogadores que desejam formar equipes. Jogadores que não gostam de jogar sozinhos ou que apreciam a camaradagem da cooperação muitas vezes se deparam com a frustração de não conseguirem encontrar membros de equipe compatíveis seja por: 
 
+•Idade 
+•Nível técnico de jogabilidade 
+•Horário disponível 
+•Nacionalidade 
+•Objetivo 
+•Falta de usuários/Jogadores 
+
+Essa dificuldade pode levar à exclusão de uma parte significativa da experiência de jogo, resultando em desmotivação e uma sensação de isolamento. 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+Nossa solução visa criar uma plataforma que simplifique e aprimore a formação de equipes para jogadores apaixonados por jogos online. Ao reunir uma comunidade diversificada de jogadores, estamos comprometidos em eliminar as barreiras que impedem os jogadores de vivenciar a plenitude das experiências cooperativas que esses jogos têm a oferecer.
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Escolhemos dedicar a este tema pois entramos em acordo que é um problema recorrente vivido por todos do grupo e amigos próximos, pois compartilhamos o mesmo hobby/diversão. Com a sociedade em geral cada dia mais individualista e com menos tempo para atividades em grupo, decidimos desenvolver essa ferramenta, proporcionando alguns benefícios para os jogadores:
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+•Pode tornar os jogos mais divertidos. Jogar com uma equipe de pessoas que estão trabalhando juntas pode tornar os jogos mais divertidos e gratificantes. Você pode contar uns com os outros, compartilhar ideias e estratégias. 
+•Pode ajudá-lo a melhorar suas habilidades. Jogar com jogadores mais experientes pode ajudá-lo a aprender novas habilidades e melhorar suas habilidades atuais. Você também pode obter feedback sobre seu jogo e aprender como melhorar. 
+•Pode ajudá-lo a fazer novos amigos. Jogar com outras pessoas é uma ótima maneira de fazer novos amigos. Você pode encontrar pessoas que compartilham seus interesses e que gostam de jogar tanto quanto você. 
+•Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Segue o link da pesquisa de campo feita para basear nossos dados:
+https://encurtador.com.br/jrEHR
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+Os jogadores que gostam de jogos multiplayer mas não acham pessoas para isso são, em geral, pessoas que gostam de socializar e interagir com outros jogadores. Eles apreciam a sensação de fazer parte de uma equipe e trabalhar juntos para alcançar um objetivo comum. No entanto, eles podem encontrar dificuldades em encontrar pessoas com interesses semelhantes ou que estejam disponíveis para jogar na mesma hora que eles. 
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+Algumas características comuns desse perfil de jogadores incluem: 
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
+•Apreciam a interação social: Eles gostam de conversar com outros jogadores, fazer amigos e construir relacionamentos. 
+•São competitivos: Eles gostam de desafiar a si mesmos e aos outros jogadores para vencer. 
+•São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum. 
 
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Segue o link da pesquisa de campo feita para basear nossos dados: 
+https://encurtador.com.br/lqDH7 
