@@ -16,11 +16,6 @@ A equipe está organizada da seguinte maneira:
 - Equipe de Desenvolvimento: Álvaro Tadeu, Matheus Deves, Vinicius Souza
 - Equipe de Design: Nathan Luiz Aquino Moreira, Joao Paulo de Oliveira, Vinicius Souza
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 [Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
