@@ -24,7 +24,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/3062ccf4-b617-42fd-a2d4-76044b2dcea2)"
     <figcaption>Figura 2 - Estrutura padrão do site
 </figure> 
 <hr>
@@ -32,7 +32,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela - Home page</b></h3>
 <p>A tela de home page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
   
-![homepage](https://user-images.githubusercontent.com/81182674/167677975-53f61b97-4979-441b-813c-036c3cd153bf.png)
+![Tela 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/2fcb66ab-0931-4601-b9d5-4ef9d8c817bd)
 
 <figure> 
   <figcaption>Figura 3 - Tela home page
@@ -42,9 +42,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 <h3><b>Tela - Livros</b></h3>
 <p>A tela de Livros apresenta os livros disponíveis para troca, as informações sobre os livros e o contato do proprietário do livro.</p>
-  
-![livros](https://user-images.githubusercontent.com/81182674/172237430-f4f8089c-dae3-499e-87b6-d344ae418de3.png)
 
+ ![Tela 5 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/6e6a3757-662f-43ca-8734-5dcb334e3bc6)
   
 <figure> 
   <figcaption> Figura 4 - Tela de Livros
@@ -55,7 +54,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <p>A tela de Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
 
-![tutoria (1)](https://user-images.githubusercontent.com/81182674/172237160-e63519ab-9058-44ec-999d-07385b5a93a4.png)
+![Tela 6 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/7118abbd-6bc8-4dc5-b381-2ab316f7c69b)
 
   
 <figure>  
@@ -66,7 +65,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela – Login</b></h3>
 <p>A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de manter-se logado. </p>
   
-  ![login](https://user-images.githubusercontent.com/81182674/167681381-ee88eeee-ffd8-428f-bfb2-67106c0d6046.png)
+![Tela 7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/e917ae5f-95e5-44bd-98cb-1e7754ccbcd5)
 
 
 <figure> 
@@ -77,7 +76,8 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela – Cadastro</b></h3>
 <p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
   
-  ![cadastro](https://user-images.githubusercontent.com/81182674/167681719-694701df-5bd7-4615-9562-b106001e40db.png)
+ 
+  ![Tela 14](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/0497742c-9ca6-4b9b-8521-c09aebbc3eb2)
 
 
 <figure> 
@@ -88,7 +88,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
   <h3><b>Tela – Perfil</b></h3>
 <p>A tela de Perfil apresenta um menu lateral, que permite ter acesso às informações do usuário (que foram inseridas na Página de Cadastro), às telas de Cadastro de Livros e de Tutores, e à opção de "Logout".  </p>
   
-![perfil](https://user-images.githubusercontent.com/81182674/172498681-6fd2d59e-00f8-45b8-b0f4-7e8676eba5a6.png)
+![Tela 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/b409b814-8b59-4fb9-947e-79d8dc5629d2)
 
 
 <figure> 
@@ -96,25 +96,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </figure>
 <hr>
 
-  <h3><b>Tela – Cadastro de Livros</b></h3>
-<p>A tela de Cadastro de Livros apresenta os seguintes campos: Título, Imagem da capa, Resumo, Autor, Ano de publicação, Área de conhecimento, Estado de conservação, Nome do(a) proprietário(a) e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login.   </p>
   
 
-![livros (1)](https://user-images.githubusercontent.com/81182674/172500605-2d476435-9841-4c40-848c-016bea99ecdb.png)
-
-
-
-
 <figure> 
-    <figcaption>Figura 9 - Tela de Cadastro de Livros
-</figure>
- <hr>
-
-  <h3><b>Tela – Cadastro de Tutores</b></h3>
-<p>A tela de Cadastro de Tutores apresenta os seguintes campos: Foto, Nome, Instituição de ensino, Cidade, Disciplina e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
-  
-![tutores](https://user-images.githubusercontent.com/81182674/172501101-1222f7e8-a62e-44d7-8c37-0afbdab03f59.png)
-
-<figure> 
-    <figcaption>Figura 10 - Tela de Cadastro de Tutores
-</figure>
+ 
