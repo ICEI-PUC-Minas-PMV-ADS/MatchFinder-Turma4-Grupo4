@@ -23,6 +23,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - In Progress: lista das tarefas iniciadas e em desenvolvimento.  
 - Done: Nesta lista são colocadas as tarefas finalizadas, que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
+Usamos o metodo Kanban para dividir as tarefas da equipe, via GitHub. O quadro esta disponível no link 
+
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
