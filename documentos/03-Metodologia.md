@@ -29,6 +29,8 @@ Estado atual na figura abaixo:
 
 ![tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/d9707fe2-6491-486b-bb0a-14e5c682be93)
 
+Figura 1 - kanban no GitHub sendo utilizado
+
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
@@ -43,7 +45,7 @@ Estado atual na figura abaixo:
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
 ### Ferramentas
