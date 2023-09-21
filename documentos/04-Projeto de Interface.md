@@ -120,7 +120,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr> 
 
 <figure> 
-<h3><b>Tela –Chat</b></h3>
+<h3><b>Tela – Chat</b></h3>
 <p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
   
  
