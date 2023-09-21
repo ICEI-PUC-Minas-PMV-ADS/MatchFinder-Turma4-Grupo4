@@ -23,7 +23,9 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - In Progress: lista das tarefas iniciadas e em desenvolvimento.  
 - Done: Nesta lista são colocadas as tarefas finalizadas, que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
 
-Usamos o metodo Kanban para dividir as tarefas da equipe, via GitHub. O quadro esta disponível no link 
+Usamos o metodo Kanban para dividir as tarefas da equipe, via GitHub. O quadro esta disponível neste <a href="https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/639">link</a>.
+Estado atual na figura abaixo:
+![tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/d9707fe2-6491-486b-bb0a-14e5c682be93)
 
 ### Etiquetas
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
