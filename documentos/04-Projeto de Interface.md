@@ -24,7 +24,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 </ul>
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/3062ccf4-b617-42fd-a2d4-76044b2dcea2)"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/5ab12922-b0c0-4490-bf20-f5773412b6bb)"
     <figcaption>Figura 2 - Estrutura padrão do site
 </figure> 
 <hr>
@@ -32,7 +32,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <h3><b>Tela - Home page</b></h3>
 <p>A tela de home page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
   
-![Tela 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/2fcb66ab-0931-4601-b9d5-4ef9d8c817bd)
+![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/63a52004-dc19-45b0-9f3e-0dae7a13c124)
 
 <figure> 
   <figcaption>Figura 3 - Tela home page
@@ -40,63 +40,96 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 
-<h3><b>Tela - Livros</b></h3>
+<h3><b>Tela - Login e Registre-se</b></h3>
 <p>A tela de Livros apresenta os livros disponíveis para troca, as informações sobre os livros e o contato do proprietário do livro.</p>
 
- ![Tela 5 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/6e6a3757-662f-43ca-8734-5dcb334e3bc6)
+ ![Tela 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/c18f2b0d-b102-4834-93f2-86bf3af00240)
   
 <figure> 
-  <figcaption> Figura 4 - Tela de Livros
+  <figcaption> Figura 4 - Login e Registre-se
 </figure> 
 <hr>
 
-<h3><b>Tela - Tutorias</b></h3>
+<h3><b>Tela - Lista de amigos</b></h3>
 <p>A tela de Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
 
 
-![Tela 6 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/7118abbd-6bc8-4dc5-b381-2ab316f7c69b)
+![Tela 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/1a5b0aac-5bfb-4db5-a74f-42c3ac41692d)
+
 
   
 <figure>  
-    <figcaption>Figura 5 - Tela de Tutorias      
+    <figcaption>Figura 5 - Tela de lista de amigos     
 </figure> 
 <hr>
 
-<h3><b>Tela – Login</b></h3>
+<h3><b>Tela – Adicionar Amigos</b></h3>
 <p>A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de manter-se logado. </p>
   
-![Tela 7 (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/e917ae5f-95e5-44bd-98cb-1e7754ccbcd5)
+![Tela 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/37a9631c-db56-4088-83d0-951ec22193d5)
 
 
 <figure> 
-    <figcaption>Figura 6 - Tela de acesso à conta do usuário
+    <figcaption>Figura 6 - Tela de Adicionar Amigos
 </figure>
 <hr>
 
-<h3><b>Tela – Cadastro</b></h3>
+<h3><b>Tela – Perfil</b></h3>
 <p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
   
  
-  ![Tela 14](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/0497742c-9ca6-4b9b-8521-c09aebbc3eb2)
+  ![Tela 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/c5ff8852-782a-465f-9798-cf94c30bef9d)
 
 
 <figure> 
-    <figcaption>Figura 7 - Tela de cadastro de usuários
+    <figcaption>Figura 7 - Perfil
 </figure>
 <hr> 
   
-  <h3><b>Tela – Perfil</b></h3>
+  <h3><b>Tela – Salas</b></h3>
 <p>A tela de Perfil apresenta um menu lateral, que permite ter acesso às informações do usuário (que foram inseridas na Página de Cadastro), às telas de Cadastro de Livros e de Tutores, e à opção de "Logout".  </p>
-  
-![Tela 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/b409b814-8b59-4fb9-947e-79d8dc5629d2)
+
+  ![Tela 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/d68ab21d-1c6d-4887-a292-d0155be87459)
 
 
 <figure> 
-    <figcaption>Figura 8 - Tela de Perfil
+    <figcaption>Figura 8 - Tela de Salas
 </figure>
 <hr>
 
   
 
 <figure> 
+
+
+
+  
+
+<figure> 
+<h3><b>Tela – Criar Sala</b></h3>
+<p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
+  
+ 
+ ![Tela 14](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/2f65bf6a-bb26-4c53-a567-d79608d958bc)
+
+
+
+<figure> 
+    <figcaption>Figura 7 - Tela de criar sala
+</figure>
+<hr> 
+
+<figure> 
+<h3><b>Tela –Chat</b></h3>
+<p>A tela de cadastro apresenta os seguintes campos para a inserção das informações pessoais do usuário: Nome Completo, E-mail, Telefone, Instituição de Ensino, Endereço, Senha e Confirmação de Senha.</p>
+  
+ 
+ ![Tela 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/90a8d2ea-2940-4eca-9f66-35640c602301)
+
+
+
+<figure> 
+    <figcaption>Figura 7 - Tela de chat
+</figure>
+<hr> 
  
