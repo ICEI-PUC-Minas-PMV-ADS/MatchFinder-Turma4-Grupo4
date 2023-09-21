@@ -4,7 +4,7 @@
 
 ## User Flow
 
-O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=1-2&t=YnjD1XUWNbGzugpF-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2">ambiente Figma do projeto</a>.
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=1-2&t=YnjD1XUWNbGzugpF-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2">ambiente Figma do projeto</a>.
 
  ![Todas telas ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/5abb6fb8-1b61-4763-ae14-8d2723bdd9a5)
 
@@ -16,11 +16,11 @@ O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário p
 
 ## Protótipo de baixa fidelidade
 
-As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
+As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 2 grandes blocos,são eles:
 <ul>
-  <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
+  <li>Cabeçalho - local onde esta a logo da aplicação web e a barra de navegação principal do site;</li>
   <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
-  <li>Rodapé - apresenta informações sobre os direitos autorais.</li>
+
 </ul>
 
 <figure> 
@@ -30,7 +30,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Home page</b></h3>
-<p>A tela de home page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
+<p>A tela de home page apresenta a logo da página aonde por ela o usuário e capaz de voltar para a home page ao clicar nela , barra de pesquisa aonde o usuario podera buscar por jogos, banner aonde ficara imagens de alguns jogos e tambem os icones de perfil,registre-se ou login e amigos,um atalho para cair nas salas dos jogos desejados(ficaram espostos os jogos em alta na home page). </p>
   
 ![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/63a52004-dc19-45b0-9f3e-0dae7a13c124)
 
@@ -41,7 +41,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <h3><b>Tela - Login e Registre-se</b></h3>
-<p>A tela de Livros apresenta os livros disponíveis para troca, as informações sobre os livros e o contato do proprietário do livro.</p>
+<p>A tela de login e registre-se,ao clicar no primeiro icone será  aberto um pop up aonde o usario poderá fazer login caso ja tenha conta ou se registrar no site caso não tenha.</p>
 
  ![Tela 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/c18f2b0d-b102-4834-93f2-86bf3af00240)
   
@@ -51,7 +51,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Lista de amigos</b></h3>
-<p>A tela de Tutorias apresenta as informações sobre os tutores/alunos, disciplinas e informações para contato.</p>
+<p>A tela de lista de amigos , clicando no segundo icone o pop up da tela de amigos será aberto aonde o usuario podera ver seus amigos adicionados.</p>
 
 
 ![Tela 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/1a5b0aac-5bfb-4db5-a74f-42c3ac41692d)
@@ -64,7 +64,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela – Adicionar Amigos</b></h3>
-<p>A tela de Login apresenta campos para a inserção do e-mail e da senha, e a funcionalidade de manter-se logado. </p>
+<p>A tela adicionar amigos , dentro do pop up lista de amigos tem um icone com um + aonde clicando o usuario conseguira buscar outro usuario atraves do nickname e o adiciona-lo a lista de amigos. </p>
   
 ![Tela 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/37a9631c-db56-4088-83d0-951ec22193d5)
 
