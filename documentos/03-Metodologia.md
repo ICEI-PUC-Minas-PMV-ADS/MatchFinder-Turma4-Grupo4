@@ -74,4 +74,4 @@ Os conteúdos do projeto são desenvolvidos a partir das plataformas GitHub e Fi
 
 ### Estratégia de Organização de Codificação 
 
-Todos os arquivos de imagem estarão na pasta <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/tree/main/documentos/img">img</a> e as implementações em <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/tree/main/codigo-fonte">codigo-fonte</a>
+Todos os arquivos de imagem estarão na pasta <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/tree/main/documentos/img">img</a> e as implementações em <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/tree/main/codigo-fonte">codigo-fonte</a>.
