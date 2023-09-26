@@ -6,11 +6,16 @@ A indústria dos games cresce significativamente ano após ano, e não é para m
 
 O problema reside na falta de um sistema eficiente que facilite a conexão entre jogadores que desejam formar equipes. Jogadores que não gostam de jogar sozinhos ou que apreciam a camaradagem da cooperação muitas vezes se deparam com a frustração de não conseguirem encontrar membros de equipe compatíveis seja por: 
 
-•Idade 
-•Nível técnico de jogabilidade 
-•Horário disponível 
-•Nacionalidade 
-•Objetivo 
+•Idade
+
+•Nível técnico de jogabilidade
+
+•Horário disponível
+
+•Nacionalidade
+
+•Objetivo
+
 •Falta de usuários/Jogadores 
 
 Essa dificuldade pode levar à exclusão de uma parte significativa da experiência de jogo, resultando em desmotivação e uma sensação de isolamento. 
@@ -23,12 +28,15 @@ Nossa solução visa criar uma plataforma que simplifique e aprimore a formaçã
 
 Escolhemos dedicar a este tema pois entramos em acordo que é um problema recorrente vivido por todos do grupo e amigos próximos, pois compartilhamos o mesmo hobby/diversão. Com a sociedade em geral cada dia mais individualista e com menos tempo para atividades em grupo, decidimos desenvolver essa ferramenta, proporcionando alguns benefícios para os jogadores:
 
-•Pode tornar os jogos mais divertidos. Jogar com uma equipe de pessoas que estão trabalhando juntas pode tornar os jogos mais divertidos e gratificantes. Você pode contar uns com os outros, compartilhar ideias e estratégias. 
-•Pode ajudá-lo a melhorar suas habilidades. Jogar com jogadores mais experientes pode ajudá-lo a aprender novas habilidades e melhorar suas habilidades atuais. Você também pode obter feedback sobre seu jogo e aprender como melhorar. 
-•Pode ajudá-lo a fazer novos amigos. Jogar com outras pessoas é uma ótima maneira de fazer novos amigos. Você pode encontrar pessoas que compartilham seus interesses e que gostam de jogar tanto quanto você. 
-•Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos. 
+   •Pode tornar os jogos mais divertidos. Jogar com uma equipe de pessoas que estão trabalhando juntas pode tornar os jogos mais divertidos e gratificantes. Você pode contar uns com os outros, compartilhar ideias e estratégias. 
 
-Segue o link da pesquisa de campo feita para basear nossos dados:
+   •Pode ajudá-lo a melhorar suas habilidades. Jogar com jogadores mais experientes pode ajudá-lo a aprender novas habilidades e melhorar suas habilidades atuais. Você também pode obter feedback sobre seu jogo e aprender como melhorar. 
+
+   •Pode ajudá-lo a fazer novos amigos. Jogar com outras pessoas é uma ótima maneira de fazer novos amigos. Você pode encontrar pessoas que compartilham seus interesses e que gostam de jogar tanto quanto você.
+
+   •Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos. 
+
+Pesquisa de campo feita para basear nossos dados:
 https://encurtador.com.br/jrEHR
 
 ## Público-Alvo
@@ -37,9 +45,12 @@ Os jogadores que gostam de jogos multiplayer mas não acham pessoas para isso s�
 
 Algumas características comuns desse perfil de jogadores incluem: 
 
-•Apreciam a interação social: Eles gostam de conversar com outros jogadores, fazer amigos e construir relacionamentos. 
-•São competitivos: Eles gostam de desafiar a si mesmos e aos outros jogadores para vencer. 
-•São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum. 
+   •Apreciam a interação social: Eles gostam de conversar com outros jogadores, fazer amigos e construir relacionamentos.
 
-Segue o link da pesquisa de campo feita para basear nossos dados: 
+   •São competitivos: Eles gostam de desafiar a si mesmos e aos outros jogadores para vencer.
+
+   •São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum.
+
+
+Pesquisa de campo feita para basear nossos dados: 
 https://encurtador.com.br/lqDH7 
