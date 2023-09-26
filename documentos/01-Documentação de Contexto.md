@@ -28,13 +28,13 @@ Nossa solução visa criar uma plataforma que simplifique e aprimore a formaçã
 
 Escolhemos dedicar a este tema pois entramos em acordo que é um problema recorrente vivido por todos do grupo e amigos próximos, pois compartilhamos o mesmo hobby/diversão. Com a sociedade em geral cada dia mais individualista e com menos tempo para atividades em grupo, decidimos desenvolver essa ferramenta, proporcionando alguns benefícios para os jogadores:
 
-   •Pode tornar os jogos mais divertidos. Jogar com uma equipe de pessoas que estão trabalhando juntas pode tornar os jogos mais divertidos e gratificantes. Você pode contar uns com os outros, compartilhar ideias e estratégias. 
+<li>Pode tornar os jogos mais divertidos. Jogar com uma equipe de pessoas que estão trabalhando juntas pode tornar os jogos mais divertidos e gratificantes. Você pode contar uns com os outros, compartilhar ideias e estratégias.</li>  
 
-   •Pode ajudá-lo a melhorar suas habilidades. Jogar com jogadores mais experientes pode ajudá-lo a aprender novas habilidades e melhorar suas habilidades atuais. Você também pode obter feedback sobre seu jogo e aprender como melhorar. 
+<li>Pode ajudá-lo a melhorar suas habilidades. Jogar com jogadores mais experientes pode ajudá-lo a aprender novas habilidades e melhorar suas habilidades atuais. Você também pode obter feedback sobre seu jogo e aprender como melhorar.</li>   
 
-   •Pode ajudá-lo a fazer novos amigos. Jogar com outras pessoas é uma ótima maneira de fazer novos amigos. Você pode encontrar pessoas que compartilham seus interesses e que gostam de jogar tanto quanto você.
+<li>Pode ajudá-lo a fazer novos amigos. Jogar com outras pessoas é uma ótima maneira de fazer novos amigos. Você pode encontrar pessoas que compartilham seus interesses e que gostam de jogar tanto quanto você.</li>   
 
-   •Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos. 
+<li>Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos.</li>
 
 Pesquisa de campo feita para basear nossos dados:
 https://encurtador.com.br/jrEHR
@@ -45,12 +45,11 @@ Os jogadores que gostam de jogos multiplayer mas não acham pessoas para isso s�
 
 Algumas características comuns desse perfil de jogadores incluem: 
 
-   •Apreciam a interação social: Eles gostam de conversar com outros jogadores, fazer amigos e construir relacionamentos.
+<li>Apreciam a interação social: Eles gostam de conversar com outros jogadores, fazer amigos e construir relacionamentos.</li>
 
-   •São competitivos: Eles gostam de desafiar a si mesmos e aos outros jogadores para vencer.
+<li>São competitivos: Eles gostam de desafiar a si mesmos e aos outros jogadores para vencer.</li>
 
-   •São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum.
-
+<li>São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum.</li>
 
 Pesquisa de campo feita para basear nossos dados: 
 https://encurtador.com.br/lqDH7 
