@@ -4,21 +4,21 @@ A indústria dos games cresce significativamente ano após ano, e não é para m
 
 ## Problema
 
-O problema reside na falta de um sistema eficiente que facilite a conexão entre jogadores que desejam formar equipes. Jogadores que não gostam de jogar sozinhos ou que apreciam a camaradagem da cooperação muitas vezes se deparam com a frustração de não conseguirem encontrar membros de equipe compatíveis seja por: 
+O problema reside na falta de um sistema eficiente que facilite a conexão entre jogadores que desejam formar equipes. Jogadores que não gostam de jogar sozinhos ou que apreciam a camaradagem da cooperação muitas vezes se deparam com a frustração de não conseguirem encontrar membros de equipe compatíveis seja por:
 
-•Idade
+<li>Idade</li>
 
-•Nível técnico de jogabilidade
+<li>Nível técnico de jogabilidade</li>
 
-•Horário disponível
+<li>Horário disponível</li>
 
-•Nacionalidade
+<li>Nacionalidade</li>
 
-•Objetivo
+<li>Objetivo</li>
 
-•Falta de usuários/Jogadores 
+<li>Falta de usuários/Jogadores</li>
 
-Essa dificuldade pode levar à exclusão de uma parte significativa da experiência de jogo, resultando em desmotivação e uma sensação de isolamento. 
+Essa dificuldade pode levar à exclusão de uma parte significativa da experiência de jogo, resultando em desmotivação e uma sensação de isolamento.
 
 ## Objetivos
 
