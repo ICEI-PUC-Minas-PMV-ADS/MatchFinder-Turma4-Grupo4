@@ -30,7 +30,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 <hr>
 
 <h3><b>Tela - Home page</b></h3>
-<p>Tela de home page apresenta a logo da página aonde por ela o usuário e capaz de voltar para a home page ao clicar nela , barra de pesquisa aonde o usuario podera buscar por jogos, banner aonde ficara imagens de alguns jogos e tambem os icones de perfil,registre-se ou login e amigos,um atalho para cair nas salas dos jogos desejados(os jogos em alta ficam espostos na home page). </p>
+<p>Tela de home page apresenta a logo da página aonde por ela o usuário e capaz de voltar para a home page ao clicar nela , barra de pesquisa aonde o usuario podera buscar por jogos, banner aonde ficara imagens de alguns jogos e tambem os icones de perfil, registre-se ou login e amigos,um atalho para cair nas salas dos jogos desejados(os jogos em alta ficam espostos na home page). </p>
   
 ![Tela 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/63a52004-dc19-45b0-9f3e-0dae7a13c124)
 
