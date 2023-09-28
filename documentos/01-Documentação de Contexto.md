@@ -40,6 +40,8 @@ Pesquisa de campo feita pelo google forms, com 25 pessoas para basear nossos dad
 
 ![Pesquisa de campo eixo 1 etapa 1 a](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/8e701cea-a2eb-42b3-acbd-d62428f0a7a5)
 
+Figura 1 - Dados e resultados dos participantes da pesquisa de campo
+
 ## Público-Alvo
 
 Os jogadores que gostam de jogos multiplayer mas não acham pessoas para isso são, em geral, pessoas que gostam de socializar e interagir com outros jogadores. Eles apreciam a sensação de fazer parte de uma equipe e trabalhar juntos para alcançar um objetivo comum. No entanto, eles podem encontrar dificuldades em encontrar pessoas com interesses semelhantes ou que estejam disponíveis para jogar na mesma hora que eles. 
@@ -55,6 +57,7 @@ Algumas características comuns desse perfil de jogadores incluem:
 Pesquisa de campo feita pelo google forms, com 25 pessoas para basear nossos dados:
 
 ![Pesquisa de campo eixo 1 etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/aa4fcf3c-9d80-4a94-a080-4745ffc448da)
-figura 2 - Graficos com o resultado da pesquisa de campo
+
+Figura 2 - Graficos com o resultado da pesquisa de campo
 
 
