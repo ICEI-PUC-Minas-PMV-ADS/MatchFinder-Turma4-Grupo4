@@ -6,7 +6,7 @@
 
 O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo. Para visualizar o protótipo interativo, acesse o <a href="https://www.figma.com/proto/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=1-2&t=YnjD1XUWNbGzugpF-1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2">ambiente Figma do projeto</a>.
 
- ![Todas telas ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/144962568/5abb6fb8-1b61-4763-ae14-8d2723bdd9a5)
+![fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/assets/144962568/aefa80c2-f733-4cf6-a09d-5162ff42add9)
 
   
 <figure> 
