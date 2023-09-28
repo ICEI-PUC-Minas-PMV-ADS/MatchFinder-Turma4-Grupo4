@@ -51,5 +51,5 @@ Algumas características comuns desse perfil de jogadores incluem:
 
 <li>São colaborativos: Eles estão dispostos a trabalhar em equipe para alcançar um objetivo comum.</li>
 </ul>
-Pesquisa de campo feita para basear nossos dados: 
-https://encurtador.com.br/lqDH7 
+Pesquisa de campo feita para basear nossos dados:
+
