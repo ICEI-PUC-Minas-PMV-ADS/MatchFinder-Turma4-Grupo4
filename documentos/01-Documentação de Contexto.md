@@ -37,7 +37,8 @@ Escolhemos dedicar a este tema pois entramos em acordo que é um problema recorr
 <li>Pode ajudá-lo a se conectar com outras pessoas. Jogar com outras pessoas pode ajudá-lo a se conectar com pessoas de todo o mundo. Você pode aprender sobre diferentes culturas e perspectivas e fazer novos amigos.</li>
 </ul>
 Pesquisa de campo feita pelo google forms, com 25 pessoas para basear nossos dados:
-https://encurtador.com.br/jrEHR
+
+![Pesquisa de campo eixo 1 etapa 1 a](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/8e701cea-a2eb-42b3-acbd-d62428f0a7a5)
 
 ## Público-Alvo
 
@@ -54,5 +55,6 @@ Algumas características comuns desse perfil de jogadores incluem:
 Pesquisa de campo feita pelo google forms, com 25 pessoas para basear nossos dados:
 
 ![Pesquisa de campo eixo 1 etapa 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/assets/145401221/aa4fcf3c-9d80-4a94-a080-4745ffc448da)
+figura 2 - Graficos com o resultado da pesquisa de campo
 
 
