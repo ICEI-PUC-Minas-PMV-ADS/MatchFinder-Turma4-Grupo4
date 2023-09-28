@@ -6,6 +6,10 @@
 
 `1º semestre/2023`
 
+
+![Match Finder1](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/assets/144962568/e8cd5e98-3fe2-4566-b491-00b112e3f722)
+
+
 O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos jogadores buscarem novos companheiros de equipe para entreterimento nas aventuras online.
 
 ## Integrantes
