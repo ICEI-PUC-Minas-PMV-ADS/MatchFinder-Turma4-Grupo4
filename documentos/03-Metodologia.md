@@ -67,7 +67,7 @@ Os conteúdos do projeto são desenvolvidos a partir das plataformas GitHub e Fi
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4/tree/main/codigo-fonte|
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t4-group_4|
-| Projeto de Interface                | Figma                              | http://https://www.figma.com/file/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=0-1&mode=design&t=DEIR9O7IACAHXPuP-0|
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/hmYlDcIeb9Muq5sbxBzTqU/Untitled?type=design&node-id=0%3A1&mode=design&t=vdrOdVf8PzCRIs8Y-1|
 | Gerenciamento do Projeto            | GitHub Projects                    |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/639|
 | Hospedagem                          | GitHub Pages                       | http://https://www.godaddy.com/pt-br/hospedagem/hospedagem-de-sites|
 
