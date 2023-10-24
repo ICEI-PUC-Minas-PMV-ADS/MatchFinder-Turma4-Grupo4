@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" type="" href="assets/icon1.svg">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap">
+  <link rel="stylesheet" href="sala.css">
+  
+  <title>MatchFinder</title>
+
+  
+  
+</head>
+
+<body>
+    <header>
+        <nav>
+          <a href="index.html">
+            <img id="logo" src="img/logo.png" href="index.html" />
+          </a>
+          <ul class="nav-list">
+            <li><a href="login.html"><img src="img/key.png" /></a></li>
+            <li><a href="add.html"><img src="img/high-five.png" /></a></li>
+            <li><a href="user.html"><img src="img/user.png" /></a></li>
+          </ul>
+        </nav>
+      </header>
+      <main id="container">
+        <form id="login_form">
+            <!-- FORM HEADER -->
+            <div id="form_header">
+                <h1>Criar sala</h1>
+                <img id="mode_icon" src="img/icons8-satélite-lunar-48.png">
+            </div>
+
+           
+
+            <!-- INPUTS -->
+            <div id="inputs">
+                <!-- número de usuários -->
+                <div class="input-box">
+                    <label for="name">
+                        Número de usuários
+                        <div class="input-field">
+                            <input type="number">
+                        </div>
+                    </label>
+                </div>
+                
+                <!-- Tempo de sala -->
+                <div class="input-box">
+                    <label for="email">
+                        Tempo de sala
+                        <div class="input-field">
+                            <input type="time" id="time" name="time">
+                        </div>
+                    </label>
+                </div>
+                
+                <!-- Descrição -->
+                <div class="input-box">
+                    <label for="password">
+                        Descrição
+                        <div class="input-field">
+                            <input type="text" id="text" name="text">
+                        </div>
+                    </label>
+                    
+                </div>
+            </div>
+
+            <!-- LOGIN BUTTON -->
+            <a href="chat.html"button type="reset" id="login_button"> Criar</button></a>
+        </form>
+    </main>
+    
+
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="sala.js"></script>
+  
+</body>
+
+</html>

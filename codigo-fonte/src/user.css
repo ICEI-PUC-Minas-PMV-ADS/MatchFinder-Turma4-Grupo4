@@ -1,0 +1,226 @@
+/* LIMPAR CONFIGURAÇÃO PADRÃO DO BROWSER*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+  }
+  
+  /* MENU DE NAVEGAÇÃO */
+
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-family: cursive;
+  }
+  
+  nav {
+    whidth: 1920px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(0deg, #000000, #000000),linear-gradient(0deg, #020202, #020202);
+    height: 70px;
+    border: 1px;
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+  }
+
+  /*  ESTILO TELA PRINCIPAL */
+
+  .games nav {
+    whidth: 1920px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: none;
+    height: 175px;
+    margin-top: 14px;
+    border-radius: 15px;
+    border: 1px;
+  }
+  
+  /* ESTILO PADRÀO */
+  
+  body {
+    whidth: 1920px;
+    height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(180deg, #8C52FF 0%, rgba(2, 1, 4, 0.97) 99.99%, rgba(0, 0, 0, 0) 100%);
+    color: #3E497A;
+  }
+
+  ul {
+    background: none;
+    background-color: none;
+  }
+  
+  section {
+    padding: 4rem 0;
+    background: none;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+  
+  .info {
+    width: 80%;
+    padding: 3%;
+    line-height: 25px;
+  }
+
+  
+
+
+
+  main {
+    background:;
+    margin-top: 20px;
+}
+
+.ui-w-80 {
+    width : 80px !important;
+    height: auto;
+}
+
+.btn-default {
+    border-color: white;
+    background  :white;
+    color       :black;
+}
+
+label.btn {
+    margin-bottom: 0;
+    
+}
+
+.btn-outline-primary {
+    border-color: white;
+    background  : white;
+    color       :black;
+}
+
+.btn {
+    cursor: pointer;
+    color: black;
+}
+
+.text-light {
+    color: #8C52FF !important;
+}
+
+.btn-facebook {
+    border-color: #8C52FF;
+    background  : #8C52FF;
+    color       : #8C52FF;
+}
+
+.btn-instagram {
+    border-color:#8C52FF;
+    background  : #8C52FF;
+    color       : #8C52FF;
+}
+
+.card {
+    background-clip: padding-box;
+    box-shadow     : 0 1px 4px rgba(24, 28, 33, 0.012);
+}
+
+.row-bordered {
+    overflow: hidden;
+}
+
+.account-settings-fileinput {
+    position  : absolute;
+    visibility: hidden;
+    width     : 1px;
+    height    : 1px;
+    opacity   : 0;
+}
+
+.account-settings-links .list-group-item.active {
+    font-weight: bold !important;
+}
+
+html:not(.dark-style) .account-settings-links .list-group-item.active {
+    background: transparent !important;
+}
+
+.account-settings-multiselect~.select2-container {
+    width: 100% !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #8C52FF !important;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #8C52FF !important;
+}
+
+.material-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #8C52FF !important;
+}
+
+.material-style .account-settings-links .list-group-item.active {
+    color: plum !important;
+}
+
+.dark-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color: #8C52FF !important;
+}
+
+.dark-style .account-settings-links .list-group-item.active {
+    color:green !important;
+}
+
+.light-style .account-settings-links .list-group-item.active {
+    color: #8C52FF !important;
+}
+
+.light-style .account-settings-links .list-group-item {
+    padding     : 0.85rem 1.5rem;
+    border-color:#8C52FF !important;
+}
+h4{
+  text-align: center;
+  color:black;
+  font-size: 50px;
+  font-family: arial black;
+}
