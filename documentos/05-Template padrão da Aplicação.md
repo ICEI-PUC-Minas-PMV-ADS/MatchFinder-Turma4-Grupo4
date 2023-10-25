@@ -16,13 +16,13 @@ Exemplos:
 <b>Tela de Registro</b>
 <p>Onde usuarios criam uma conta para poder dar inicio as funcionalidades da nossa soluçao.</p>
 <figure> 
-  <p><img src="![tela_registre-se](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/145401221/9ca5e2cb-93ae-4513-a44e-f22f8e6af026)">
+  <p><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/tela_registre-se.png">
   <figcaption> <h6>Figura 1 - Tela de Registro</h6></figcaption>  
 </figure></p>
 <hr>
 <b>Lista de Amigos</b>
 <p>Nossa soluçao tera a opçao de adicionar outros usuarios em uma lista vinculado a conta, para facilitar futuras conversas eatividades.</p>
 <p><figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/lista_de_amg.png">
   <figcaption><h6>Figura 2 - Tela Principal</h6>      
 </figure></p> 
