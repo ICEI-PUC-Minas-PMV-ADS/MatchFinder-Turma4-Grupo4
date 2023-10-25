@@ -24,5 +24,5 @@ Exemplos:
 <p>Nossa soluçao tera a opçao de adicionar outros usuarios em uma lista vinculado a conta, para facilitar futuras conversas eatividades.</p>
 <p><figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/lista_de_amg.png">
-  <figcaption><h6>Figura 2 - Tela Principal</h6>      
+  <figcaption><h6>Figura 2 - Lista de Amigos</h6>      
 </figure></p> 
