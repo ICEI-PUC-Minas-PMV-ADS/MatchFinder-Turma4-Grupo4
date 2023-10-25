@@ -1,86 +1,76 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/03-Metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/05-Arquitetura%20da%20Solução.md"> Arquitetura da Solução</a>
-
-
 ### Tela de Cadastro (RF-001)
 
-Responsável: Ana
+Responsável: Nathan e Alvaro
 
-O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Login”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de cadastro: 
 
 
-![Untitled Diagram-Page-1 drawio](https://user-images.githubusercontent.com/81182674/168495024-300e1d7f-128d-4243-9561-8499c0ddf770.png)
+![Untitled Diagram-Page-1 drawio](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/tela_registre-se.png)
 
 
 
 #### Requisito atendido
 
-RF-001: O site deve permitir ao usuário cadastrar uma conta.
+RF-001: Implementar um processo de registro simplificado.
 
 
 #### Artefatos da funcionalidade
 
-●cadastre-se.html
+●login.html
 
-●cadastro.css
+●login.css
 
-●script.js
-
-●mobile-navbar.js
-
+●login.js
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
+●[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/login.html)
 
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
+Abra um navegador de Internet e informe a seguinte URL: TROCAR AQUIhttps://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htmlTROCAR AQUI
 
-Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a página de cadastro.
+Ao clicar no primeiro ícone no canto superior direito da tela, terá acesso a página de cadastro.
 
 <hr>
 
-### Tela de Login (RF-002)
+### Tela de Perfil (RF-002)
 
-Responsável: Maria
+Responsável: Nathan e Alvaro
 
-O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de perfil poderá ser feito através do terceiro icone no canto superior direito da tela. As estruturas de dados foram baseadas em HTML, CSS.
 
-Exemplo da tela de login: 
+Exemplo da tela de perfil: 
 
 
-![pagina-login](https://user-images.githubusercontent.com/98122346/168496445-2cd1d62a-962c-47b3-b6f1-bb6ba6b55c54.jpeg)
+![pagina-login](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/perfil.png)
 
 
 #### Requisito atendido
 
-RF-002: O site deve permitir ao usuário fazer o login da sua conta.
+RF-002: Desenvolver um sistema de criação de perfil que permita aos jogadores detalhar suas preferências de jogos.
 
 #### Artefatos da funcionalidade
 
-●	login.html 
+●	user.html 
 
-●	style-login.css
-
-●	script-login.js
-
-●	mobile-navbar.js
+●	user.css
 
 
 #### Estrutura de Dados
 
-●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/pagina-login/login.html)
+●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/user.html)
 
 
 #### Instruções de acesso
 
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Entrar” no canto superior direito da tela, terá acesso a página de login.
+1.	Abra um navegador de Internet e informe a seguinte URL: TROCAR AQUIhttps://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htmlTROCAR AQUI
+2.	Ao clicar no terceiro ícone no canto superior direito da tela, terá acesso a página de perfil, após efetuar o login.
 
 <hr>
 
