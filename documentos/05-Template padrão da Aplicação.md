@@ -7,29 +7,22 @@ As páginas terão como elementos padrões o menu de navegação e o header, al�
 <ul>
 <li>Cores: Linear-gradient (180deg, #8C52FF 0%, rgba(2, 1, 4, 0.97) 99.99%, rgba (0, 0, 0, 0) 100%), black, white.</li>
 <li>Font-family: Inter.</li>
-<li>Font-size: 15px e 28px. </li>
 </ul>
   
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/tree/main/documentos/img">aqui</a>.
 
-<h3><b>Tela de visualização dos livros</b></h3>
-<p>Exibe informações sobre os livros, a imagem da capa e o contato do proprietário do livro.</p>
-<figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png">
-  <figcaption> Figura 1 - Tela de Livros
-</figure> 
+Exemplos:
 
-<h3><b>Tela de visualização dos tutores e disciplinas</b></h3>
-<p>Exibe informações sobre os tutores/alunos, disciplinas e contato.</p>
+<b>Tela de Registro</b>
+<p>Onde usuarios criam uma conta para poder dar inicio as funcionalidades da nossa soluçao.</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
-  <figcaption>Figura 2 - Tela de Tutorias      
-</figure> 
+  <p><img src="![tela_registre-se](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/assets/145401221/9ca5e2cb-93ae-4513-a44e-f22f8e6af026)">
+  <figcaption> <h6>Figura 1 - Tela de Registro</h6></figcaption>  
+</figure></p>
 <hr>
-  
-<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
-
-<figure> 
-  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png?raw=true)">
-    <figcaption>Figura 3 - Logotipo da aplicação web Vida de Estudante
-</figure> 
+<b>Lista de Amigos</b>
+<p>Nossa soluçao tera a opçao de adicionar outros usuarios em uma lista vinculado a conta, para facilitar futuras conversas eatividades.</p>
+<p><figure> 
+  <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
+  <figcaption><h6>Figura 2 - Tela Principal</h6>      
+</figure></p> 
