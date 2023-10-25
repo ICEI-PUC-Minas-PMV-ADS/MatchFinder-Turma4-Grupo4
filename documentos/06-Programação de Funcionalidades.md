@@ -64,7 +64,7 @@ RF-002: Desenvolver um sistema de criação de perfil que permita aos jogadores 
 
 #### Estrutura de Dados
 
-●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/user.html)
+●	[user.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/user.html)
 
 
 #### Instruções de acesso
@@ -74,227 +74,107 @@ RF-002: Desenvolver um sistema de criação de perfil que permita aos jogadores 
 
 <hr>
 
-### Filtro de pesquisa (RF-003)
+### Criaçao de salas de bate-papo (RF-003)
 
-Responsável: Pedro
+Responsável: Nathan e Alvaro
 
-O filtro de pesquisa está disponível nas páginas de Livros e Tutorias. O acesso às páginas de Livros e Tutorias poderá ser feito através menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso as salas de bate-papo poderá ser feito após a escolha do jogo. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo do filtro de pesquisa na tela de Livros:
+Exemplo:
 
-![Captura de Tela 2022-06-15 às 11 49 39](https://user-images.githubusercontent.com/100447878/173857385-bd1ea51a-2ba7-43e5-ac71-6502b1a13773.png)
+![sala](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/criar.png)
 
 
 #### Requisitos atendidos
 
-RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar livros e disciplinas das tutorias disponíveis.
+RF-003	Funcionalidade onde pode ser criado salas de conversa em jogos especificos, onde o usuario podera encontrar jogadores compativeis com seus interesses.
 
 
 #### Artefatos da funcionalidade
 
-●	paginaLivros.html 
+●	sala.html 
 
-●	style-livros.css
+●	sala.css
+
+●       sala.js
 
 
 #### Estrutura de Dados
 
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
+●[sala.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/sala.html)
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros e ao filtro de pesquisa.
-3.	Digite o termo que deseja pesquisar no filtro de pesquisa.
-4.	Veja os resultados da sua pesquisa na tela.
+1.	Abra um navegador de Internet e informe a seguinte URL: TROCAR AQUIhttps://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htmlTROCAR AQUI
+2.	Fazer login no primeiro ícone no canto superior direito da tela principal.
+3.	Escolher o jogo desejado, clicando no ícone correspondente ao memso ou no campo de buscar pelo nome.
+4.	Na tela de salas criadas, clicar na opçao "Criar Sala".
 
 <hr>
 
-### Tela de Cadastro de Livros (RF-004)
+### Tela de Salas Criadas (RF-004)
 
-Responsável: João
+Responsável: Nathan e Alvaro
 
-O acesso a tela de cadastro de livros poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a essa tela poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS.
 
-Exemplo da tela de Cadastro de livros:
+Exemplo:
 
-![Captura de Tela 2022-06-15 às 12 03 16](https://user-images.githubusercontent.com/100447878/173860896-42a2e521-b057-44db-988f-9007ec60c450.png)
+![salas](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/salas.png)
 
 
 #### Requisitos atendidos
  
-RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
+RF-004	Alem de criar salas de bate-papo, o usuario poderá encontrar salas ja criadas por outros usuarios e localizar uma, com a descriçao de seu interesse.
 
 #### Artefatos da funcionalidade
 
-●	cadastroLivros.html 
+●	lobbychat.html 
 
-●	style.css
-
-●	script2.js
-
-●	mobile-navbar.js
+●	lobbychat.css
 
 #### Estrutura de Dados
 
-●[cadastroLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroLivros.html)
+●[lobbychat.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/lobbychat.html)
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
-3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
-4.	Clique em "Cadastro de livros" no menu lateral e verá a página para o cadastro de livros.
+1.	Abra um navegador de Internet e informe a seguinte URL: TROCAR AQUIhttps://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htmlTROCAR AQUI
+2.	Ao clicar no primeiro ícone no canto superior direito da tela, terá acesso a página de login.
+3.	Informe seu e-mail e senha cadastrados e terá acesso aos jogos.
+4.	Clique ou busque pelo jogo desejado e terá acesso as salas criadas.
 
 <hr>
 
 ### Tela de Cadastro de Tutores (RF-005)
 
-Responsável: Beatriz
+Responsável: Nathan e Alvaro
 
-O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a lista de amigos poderá ser feita através do segundo icone no canto superior direito da pagina principal, após efetuar o login. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo da tela de Cadastro de tutores:
+Exemplo:
 
-![Captura de Tela 2022-06-15 às 12 04 02](https://user-images.githubusercontent.com/100447878/173863307-b5e241d1-6b14-4997-a9cd-11021181022f.png)
-
-
-#### Requisitos atendidos
- 
-RF-005	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.
-
-#### Artefatos da funcionalidade
-
-●	cadastroTutorias.html 
-
-●	style.css
-
-●	script.js
-
-●	mobile-navbar.js
-
-#### Estrutura de Dados
-
-●[cadastroTutorias.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroTutorias.html)
-
-
-#### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Login” no canto superior direito da tela, terá acesso a página de login.
-3.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
-4.	Clique em "Cadastro de tutores" no menu lateral e verá a página para o cadastro de tutores.
-
-<hr>
-
-### Tela de Livros (RF-006, RF-007)
-
-Responsável: Silvia
-
-O acesso a tela de livros poderá ser feito através da opção do menu “Livros”. As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-Exemplo da tela de Livros:
-
-![Captura de Tela 2022-06-15 às 10 54 01](https://user-images.githubusercontent.com/100447878/173845088-cdca11c1-3496-42f1-a3f7-9eb0aba491ed.png)
+![add](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/documentos/img/add.png)
 
 
 #### Requisitos atendidos
  
- RF-006 O site deve apresentar, para cada livro, uma imagem correspondente à capa
- 
- RF-007	O site deve permitir ao usuário visualizar os detalhes do livro
-
+RF-005	A aplicação deve oferecer a funcionalidade de poder criar uma lista de amigos com outras pessoas cadastradas no site.
 
 #### Artefatos da funcionalidade
 
-●	paginaLivros.html 
+●	add.html 
 
-●	style-livros.css
+●	add.css
 
-●	livros.js
-
-●	mobile-navbar.js
+●	add.js
 
 #### Estrutura de Dados
 
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
+●[add.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/blob/main/codigo-fonte/src/add.html)
 
 
 #### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Livros” no canto superior direito da tela, terá acesso a página de livros.
-
-<hr>
-
-### Tela de Tutores (RF-008)
-
-Responsável: Clara
-
-O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-Exemplo da tela de Tutores: 
-
-![Captura de Tela 2022-06-23 às 11 39 52](https://user-images.githubusercontent.com/100447878/175326567-30cd220c-1a9d-4d53-8b58-424f434f40da.png)
-
-### Requisito atendido
-
-RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
-
-### Artefatos da funcionalidade
-
-●	paginaTutorias.html 
-
-●	style-tutorias.css
-
-●	tutores.js
-
-●	mobile-navbar.js
-
-### Estrutura de Dados
-
-●[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaTutorias/paginaTutorias.html)
-
-### Instruções de acesso
-
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-	
-2.	Clicar na opção “Tutores” no canto superior direito da tela (na barra de Menu), e terá acesso a página de Tutores.
-
-<hr>
-
-### Tela de Perfil (RF-009)
-
-Responsável: Vânia
-
-O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-Exemplo da tela de Perfil:
-
-![Captura de Tela 2022-06-15 às 11 48 32](https://user-images.githubusercontent.com/100447878/173857481-7c32caf4-26f0-4f6a-8c92-3199552ebaed.png)
-
-
-#### Requisitos atendidos
- 
-RF-009	O site deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.
-
-
-#### Artefatos da funcionalidade
-
-●	perfil.html 
-
-●	style.css
-
-●	perfil.js
-
-●	mobile-navbar.js
-
-#### Estrutura de Dados
-
-●[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/perfil.html)
-
-
-#### Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
-2.	Ao clicar em “Cadastrar” no canto superior direito da tela, terá acesso a página de cadastro.
-3.	Digite suas informações pessoais nos campos indicados e clique em "Cadastrar".
-4.	Após o cadastro, terá acesso à tela de login.
-5.	Informe seu e-mail e senha cadastrados e terá acesso à página de Perfil.
+1.	Abra um navegador de Internet e informe a seguinte URL: TROCAR AQUIhttps://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htmlTROCAR AQUI
+2.	Ao clicar no primeiro ícone no canto superior direito da tela, terá acesso a página de login.
+3.	Informe seu e-mail e senha cadastrados, assim o segundo ícone no canto superior direito da tela ficará ativo para add amigos, também poderá ser feita com o botao direito sobre o nome do usuario que deseja adicionar, dentro das salas.
