@@ -80,9 +80,9 @@
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 |  Implementar um processo de registro simplificado, permitindo que os jogadores se inscrevam rapidamente na plataforma através de redes sociais ou e-mail.                     | ALTA    | 
-| RF-02 |  Implementar um processo de registro simplificado, permitindo que os jogadores se inscrevam rapidamente na plataforma através de redes sociais ou e-mail.                     | ALTA    |
-| RF-03 |  Criar uma funcionalidade de busca e filtragem avançada que permita aos jogadores que valorizam a estratégia e a coordenação encontrar jogadores com base em critérios específicos, como idade, habilidade, nacionalidade e horários disponíveis.                     | MEDIA    | 
-| RF-04 |  Desenvolver um sistema de convites intuitivo que permita aos jogadores sociais convidar jogadores compatíveis para formar equipes, agilizando o processo e garantindo o foco na experiência de jogo.                     | ALTA    |
+| RF-02 |  Desenvolver um sistema de criação de perfil que permita aos jogadores detalhar suas preferências de jogos, estilos de jogo e nível de habilidade, visando a conexão com jogadores compatíveis e com interesses semelhantes.                     | ALTA    |
+| RF-03 |  Funcionalidade onde pode ser criado salas de conversa em jogos especificos, onde o usuario podera encontrar jogadores compativeis com seus interesses.                  | ALTA    | 
+| RF-04 |  Alem de criar salas de bate-papo, o usuario poderá encontrar salas ja criadas por outros usuarios e localizar uma, com a descriçao de seu interesse.                     | ALTA    |
 | RF-05 |  A aplicação deve oferecer a funcionalidade de poder criar uma lista de amigos com outras pessoas cadastradas no site, tendo várias opções como: melhor amigo, bloquear usuário, colocar observação sobre o usuário especifico e etc...                     | MEDIA    |
 
 **Prioridade: Alta / Média / Baixa. 
