@@ -33,8 +33,8 @@ RF-001: Implementar um processo de registro simplificado.
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL:https://viniiisouza29.github.io/ProjectFaculEixo1/
-Ao clicar no primeiro ícone no canto superior direito da tela, terá acesso a página de cadastro.
+1.	Abra um navegador de Internet e informe a seguinte URL: https://viniiisouza29.github.io/ProjectFaculEixo1/
+2. Ao clicar no primeiro ícone no canto superior direito da tela, terá acesso a página de cadastro.
 
 <hr>
 
