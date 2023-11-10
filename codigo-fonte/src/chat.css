@@ -414,3 +414,74 @@ main {
 		margin-bottom: 15px !important;
 	}
 }
+.nav-list li:hover {
+	transform: scale(1.1);
+	
+	filter: brightness(30);
+	}
+	.l {
+
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		color: white;
+		font-size: 10px;
+		
+		
+		}
+		.l::after{
+		  content: "login";
+		  position: absolute;
+		  background-color: ;
+		  opacity: 0;
+		  transition: opacity 500ms,;
+		  
+		  
+		}
+		.l:is(:hover, :focus)::after{
+		  opacity: 1;
+		  
+		  
+		}
+		.u {
+		
+		  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		  color: white;
+		  font-size: 10px;
+		  
+		  
+		  }
+		  .u::after{
+			content: "perfil";
+			position: absolute;
+			background-color: ;
+			opacity: 0;
+			transition: opacity 500ms,;
+			
+			
+		  }
+		  .u:is(:hover, :focus)::after{
+			opacity: 1;
+			
+			
+		  }
+		  .a {
+		
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			color: white;
+			font-size: 10px;
+			
+			
+			}
+			.a::after{
+			  content: "amigos";
+			  position: absolute;
+			  background-color: ;
+			  opacity: 0;
+			  transition: opacity 500ms,;
+			  
+			  
+			}
+			.a:is(:hover, :focus)::after{
+			  opacity: 300;
+			  
+			  
+			}

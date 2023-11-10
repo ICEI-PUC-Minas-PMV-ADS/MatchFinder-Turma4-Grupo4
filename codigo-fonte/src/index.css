@@ -45,6 +45,18 @@ nav {
   margin-left: 32px;
 }
 
+.nav-list li:hover {
+transform: scale(1.1);
+
+filter: brightness(30);
+text-emphasis: ;
+
+}
+.ic1:hover:hover {
+  transform: scale(1.1);
+  
+  }
+
 /*  ESTILO TELA PRINCIPAL */
 
 .games nav {
@@ -58,6 +70,7 @@ nav {
   margin-top: 14px;
   border-radius: 15px;
   border: 1px;
+  
 }
 
 /* ESTILO PADRÀO */
@@ -335,3 +348,4 @@ span {
   opacity: 1;
   gap: 35px
 }
+

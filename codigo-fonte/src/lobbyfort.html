@@ -29,9 +29,9 @@
         <img id="logo" src="img/logo.png" href="index.html" />
       </a>
       <ul class="nav-list">
-        <li><a href="login.html"><img src="img/key.png" /></a></li>
-        <li><a href="add.html"><img src="img/high-five.png" /></a></li>
-        <li><a href="user.html"><img src="img/user.png" /></a></li>
+        <li class="l"><a href="login.html"><img src="img/key.png" /></a></li>
+        <li class="a"><a href="add.html"><img src="img/high-five.png" /></a></li>
+        <li class="u"><a href="user.html"><img src="img/user.png" /></a></li>
       </ul>
     </nav>
   </header>
@@ -44,28 +44,44 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
   </head>
- <!-- 
-    - favicon
-  -->
-  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
-
-  <!-- 
-    - custom css link
-  -->
-  <link rel="stylesheet" href="./assets/css/style.css">
-
-  <!-- 
-    - google font link
-  -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-</head>
-<div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
+  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+    </ol>
     <div class="carousel-inner">
-      <div class="carousel-item active" data-interval="10000">
+      <div class="carousel-item active">
         <img src="img/fort.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Fortinite</h5>
+          <p>Seja o último jogador de pé no Battle Royale e Construção Zero.</p>
+        </div>
       </div>
+      <div class="carousel-item">
+        <img src="img/banfort2_resized.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Fortinite</h5>
+          <p>Desbloqueie o Passe de Batalha desta temporada por 950 V-Bucks. </p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="img/banfort3_resized.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Fortinite</h5>
+          <p>Uma Temporada frenética e repleta de viagens no tempo como o Fortnite: Raiz </p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-target="#carouselExampleCaptions" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </button>
+  </div>
     
     
   </div>

@@ -389,3 +389,9 @@
     -webkit-transform:translate3d(0, 0, 0);
             transform:translate3d(0, 0, 0);
   }
+  .nav-list li:hover {
+    transform: scale(1.1);
+    
+    filter: brightness(30);
+    }
+    

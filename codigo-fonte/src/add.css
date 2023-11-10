@@ -494,3 +494,9 @@ main.sign-up-mode .carousel {
     padding: 1rem 2rem 1.5rem;
   }
 }
+.nav-list li:hover {
+  transform: scale(1.1);
+  
+  filter: brightness(30);
+  }
+  
