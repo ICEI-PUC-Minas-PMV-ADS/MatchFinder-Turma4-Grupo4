@@ -1,20 +1,43 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
+Os requisitos para realização dos testes de software são:
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+- Site publicado na Internet
+- Navegador da Internet - Chrome, Firefox ou Edge
+- Conectividade de Internet para acesso às plataformas (APISs)
 
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+|     Caso de teste     | CT-01 – Registro simplificado                                                                                                                                                                                   |
+| :-------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-01 - O site terá uma página em que será possível acessar os serviços disponíveis, quais sejam: conversão, cálculo de carteira e monitoramento de mercado.                                                |
+|   Objetivo do Teste   | Verificar se a página está direcionando o usuário para os serviços corretos.                                                                                                                                |
+|        Passos         | 1) Acessar o Navegador <br> 2) Informar a URL https://icei-puc-minas-pmv-ads.github.io/crypto-conversor/ <br> 3) Visualizar a página principal <br> 4) Clicar em cada um dos links dos serviços disponíveis |
+|  Critérios de Êxito   | Ao clicar no link o usuário deve ser direcionado para a página correta.                                                                                                                                     |
+
+|     Caso de teste     | CT-02 – Utilização do formulário de contato                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-04 - O site terá uma página em que será possível acessar um formulário de contato de modo que o usuário poderá enviar dúvidas, sugestões ou críticas aos desenvolvedores do projeto.                                                                                                                                                                                                                                                                                                                  |
+|   Objetivo do Teste   | Verificar se o fomulário de contato funciona de modo adequado.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|        Passos         | 1) Acessar o Navegador <br> 2) Informar a URL https://icei-puc-minas-pmv-ads.github.io/crypto-conversor/ e clicar no menu "Contato" <br> 3) Visualizar a página de contato - contact.html <br> 4) Preencher os campos presentes no formulário de contato, e, após a inserção dos dados, clicar no botão de envio ao final do formulário com a seguinte descrição: "ENVIAR A MINHA MENSAGEM" - Os campos presentes no formulário de contato são de preenchimento obrigatório, salvo o número de telefone. |
+|  Critérios de Êxito   | Após o preenchimento dos campos obrigatórios, ao clicar no botão de envio, não deverá nenhum tipo de mensagem alertando que os campos não foram preenchidos adequadamente.                                                                                                                                                                                                                                                                                                                               |
+
+|     Caso de teste     | CT-03 – Acessar cotações das criptomoedas selecionadas                                                                                                                                                                  |
+| :-------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-03 - O site terá uma página em que será possível acompanhar a cotação das criptomoedas no mercado financeiro.                                                                                                        |
+|   Objetivo do Teste   | Verificar se as cotações estão sendo exibidas corretamente e atualizadas.                                                                                                                                               |
+|        Passos         | 1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Acessar a página de cotações por meio do link na seção de serviços <br> 4) Verificar se as cotações estão sendo exibidas corretamente e atualizadas. |
+|  Critérios de Êxito   | Após acesso no link, as cotações foram exibidas corretamente e estão atualizadas.                                                                                                                                       |
+
+|     Caso de teste     | CT-04 – Realizar conversão de moedas                                                                                                                                                                                                                                                                                 |
+| :-------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-02 - O site permitirá ao usuário informar a moeda fiduciária e/ou criptoativo "de entrada” e a moeda fiduciária e/ou criptoativo "alvo” para conversão.                                                                                                                                                           |
+|   Objetivo do Teste   | Verificar se as conversões estão sendo realizadas corretamente.                                                                                                                                                                                                                                                      |
+|        Passos         | 1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Acessar a página de conversão <br> 4) Selecionar a criptomoeda que será convertida. <br> 5) Selecionar a moeda fiduciária na qual será expressa o valor <br> 6) Inserir a quantidade de moedas a ser convertida <br> 7) Clicar no botão converter |
+|  Critérios de Êxito   | Após os passos descritos, o valor da criptomoeda é convertido para a moeda fiduciária escolhida.                                                                                                                                                                                                                    |
+
+|     Caso de teste     | CT-05 – Realizar cadastro                                                                                                                                                                                                     |
+| :-------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requisitos Associados | RF-05 - Os campos presentes no formulário de contato são de preenchimento obrigatório, salvo o referente ao número de telefone, o que traz mais credibilidade ao contato do usuário, bem como minimiza o recebimento de spam. |
+|   Objetivo do Teste   | Verificar se o usuário consegue fazer cadastro no site                                                                                                                                                                        |
+|        Passos         | 1) Acessar o Navegador <br> 2) Informar o endereço do Site <br> 3) Clicar em "criar conta". <br> 4) Preencher os campos disponíveis <br> Clicar em "Criar minha conta"                                                        |
