@@ -1,6 +1,129 @@
 /* LIMPAR CONFIGURAÇÃO PADRÃO DO BROWSER*/
 
 * {
+<<<<<<< HEAD
+=======
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  box-sizing: border-box;
+}
+
+/* MENU DE NAVEGAÇÃO */
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.logo {
+  font-size: 20px;
+  font-family: cursive;
+}
+
+nav {
+  whidth: 1920px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(0deg, #000000, #000000),linear-gradient(0deg, #020202, #020202);
+  height: 70px;
+  border: 1px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list li {
+  letter-spacing: 3px;
+  margin-left: 32px;
+}
+
+.nav-list li:hover {
+transform: scale(1.1);
+
+filter: brightness(30);
+text-emphasis: ;
+
+}
+.ic1:hover:hover {
+  transform: scale(1.1);
+  
+  }
+
+/*  ESTILO TELA PRINCIPAL */
+
+.games nav {
+  whidth: 1920px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: none;
+  height: 175px;
+  margin-top: 14px;
+  border-radius: 15px;
+  border: 1px;
+  
+}
+
+/* ESTILO PADRÀO */
+
+body {
+  whidth: 1920px;
+  height: 1080px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(180deg, #8C52FF 0%, rgba(2, 1, 4, 0.97) 99.99%, rgba(0, 0, 0, 0) 100%);
+  color: #3E497A;
+  text-align: center;
+}
+
+ul {
+  background: none;
+  background-color: none;
+}
+
+section {
+  padding: 4rem 0;
+  background: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1, h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+p {
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.info {
+  width: 80%;
+  padding: 3%;
+  line-height: 25px;
+}
+  @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+*,
+*::before,
+*::after {
+  padding: 0;
+>>>>>>> a675b5aedb9636df670d38405c8290d16a40dce7
   margin: 0;
   padding: 0;
   border: 0;
