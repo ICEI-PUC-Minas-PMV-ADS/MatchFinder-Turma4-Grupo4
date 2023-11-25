@@ -23,9 +23,15 @@
             <img id="logo" src="img/logo.png" href="index.html" />
           </a>
           <ul class="nav-list">
+<<<<<<< HEAD
             <li ><a href="login.html"><img src="img/key.png" /></a></li>
             <li ><a href="add.html"><img src="img/high-five.png" /></a></li>
             <li ><a href="user.html"><img src="img/user.png" /></a></li>
+=======
+            <li ><a href="login.html"><img src="img/key.png" /> Login </a></li>
+            <li ><a href="add.html"><img src="img/high-five.png" /> Amigos </a></li>
+            <li ><a href="user.html"><img src="img/user.png" /> Perfil </a></li>
+>>>>>>> a675b5aedb9636df670d38405c8290d16a40dce7
           </ul>
         </nav>
       </header>

@@ -29,9 +29,15 @@
         <img id="logo" src="img/logo.png" href="index.html" />
       </a>
       <ul class="nav-list">
+<<<<<<< HEAD
         <li ><a href="login.html"><img src="img/key.png" /></a></li>
         <li ><a href="add.html"><img src="img/high-five.png" /></a></li>
         <li ><a href="user.html"><img src="img/user.png" /></a></li>
+=======
+        <li ><a href="login.html"><img src="img/key.png" /> Login </a></li>
+        <li ><a href="add.html"><img src="img/high-five.png" /> Amigos </a></li>
+        <li ><a href="user.html"><img src="img/user.png" /> Perfil </a></li>
+>>>>>>> a675b5aedb9636df670d38405c8290d16a40dce7
       </ul>
     </nav>
   </header>
@@ -52,24 +58,24 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/dota.jpg" class="d-block w-100" alt="...">
+        <img src="img/banr63_resized.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Dota</h5>
-          <p>E o jogo multijogador de ação e estratégia em tempo real mais profundo já feito.</p>
+          <h5>R6</h5>
+          <p>UM DOS MELHORES SHOOTERS EM PRIMEIRA PESSOA JÁ CRIADOS.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/bando2_resized.jpeg" class="d-block w-100" alt="...">
+        <img src="img/r6.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Dota</h5>
-          <p>A gama de heróis do Dota 2 é enorme e incrivelmente diversa </p>
+          <h5>R6</h5>
+          <p>Escolha entre mais de 65 Agentes, cada um com gadgets únicos e loadouts de armas personalizáveis.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/bando3_resized.png" class="d-block w-100" alt="...">
+        <img src="img/bannr62_resized.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Dota</h5>
-          <p>Quando não estiver subindo nas classificações, você pode aprender com os melhores.</p>
+          <h5>R6</h5>
+          <p>Rainbow Six Siege está em constante evolução: cada atualização trará novos conteúdos e recursos para estratégias e táticas renovadas</p>
         </div>
       </div>
     </div>
@@ -82,6 +88,8 @@
       <span class="sr-only">Next</span>
     </button>
   </div>
+    
+    
   </div>
 <body id="top">
 
@@ -326,7 +334,6 @@
 
         </div>
       </section>
-      
 
 
 
