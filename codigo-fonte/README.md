@@ -8,11 +8,12 @@ Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organiz
 - Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedora responsável: Aluna Z.
 
 ## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um servidor web de sua preferência. Existem diversos servidores web gratuitos que podem ser utilizados, tal como GitHub Pages (GitHub.IO), Vercel, Render, Netlify, Surge.sh, entre outros. Nesse primeiro eixo, recomenda-se inclusive a utilização do GitHub Pages. [Insira o endereço eletrônico público para acessá-lo.] 
+https://viniiisouza29.github.io/ProjectFaculEixo1/index.html
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
+### [0.1.0] - 08/12/2023
 #### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+- novas funcionalidades
+- interface mais limpa
+- mais opcoes de jogos para escolher
