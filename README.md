@@ -39,14 +39,12 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 <li><a href="documentos/09-Referências.md"> Referências Bibliográficas</a></li>
 </ol>
 
-# Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
 # Código-Fonte
 
 * <a href="codigo-fonte/README.md">Código Fonte</a>
 
-# Apresentação
+# Apresentação e Hospedagem
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
