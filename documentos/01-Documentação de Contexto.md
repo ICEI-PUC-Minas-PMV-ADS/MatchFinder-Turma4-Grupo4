@@ -15,6 +15,7 @@ O problema reside na falta de um sistema eficiente que facilite a conexão entre
 <li>Nacionalidade</li>
 
 <li>Objetivo</li>
+![Resultado Da Pesquisa (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/MatchFinder-Turma4-Grupo4/assets/144962568/10c50b02-3b42-4c4f-8ecb-ab1a7d63b605)
 
 <li>Falta de usuários/Jogadores</li>
 </ul>
